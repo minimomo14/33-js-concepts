@@ -1131,7 +1131,8 @@ Repos นี้ถูกสร้างขึ้นโดยมีจุดห�
 ## 33. Clean Code
 
 ### บทความ
-
+- 📜 [Clean Code ภาษาไทย — saladpuk](https://www.saladpuk.com/basic/clean-code)
+- 📜 [สรุปเนื้อหาเท่าที่ผู้อ่านเข้าใจจากหนังสือ Clean Code ของ Robert C martin — kanthakran](https://dev.to/gun27311/clean-code-th-3eg6
 - 📜 [Clean Code Explained – A Practical Introduction to Clean Coding for Beginners — freeCodeCamp](https://www.freecodecamp.org/news/clean-coding-for-beginners/)
 - 📜 [Clean Code concepts adapted for JavaScript — Ryan McDermott](https://github.com/ryanmcdermott/clean-code-javascript)
 - 📜 [Clean Code Practice: How to write clean code — Tirth Bodawala](https://www.atyantik.com/clean-code-practices-javascript/)
